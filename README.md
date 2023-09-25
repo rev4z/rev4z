@@ -1,7 +1,7 @@
 ### Hi there ~
 
 My name is Revaz  
-`[Re-vaz]`
+*`[Re-vaz]`*
 
 I am a fullstack javascript/typescript engineer
 
