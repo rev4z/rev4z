@@ -5,5 +5,5 @@ My name is Revaz
 
 I am a fullstack javascript/typescript engineer
 
-⚙️ I use daily `.js`, `.jsx`, `.ts`, `.tsx`<br />
+⚙️ I use daily `.js`, `.ts`, `.tsx`, `.svelte`<br />
 📄 [Résumé](https://rev4z.github.io/resume/Resume_Revaz_Nakhutsrishvili.pdf)
